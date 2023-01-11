@@ -1,0 +1,41 @@
+header .head{
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+header .head .intro h1{
+    text-align: center;
+    font-size: 1.5rem;
+}
+header .head .intro{
+    text-align: center;
+    padding: 10px 0px;
+}
+section .container{
+    margin-top: 45px;
+}
+section .container .projects{
+    flex-wrap: wrap;
+}
+section .container .projects .p1{
+    margin-top: 50px;
+    height: 180px;
+    width: 380px;
+}
+.container span{
+    margin-bottom: -35px;
+}
+section .container .projects .p1 img{
+    height: 190px;
+    width: 380px;
+}
+section .about{
+    margin-top: 44px;
+}
+section .about .me{
+    flex-wrap: wrap;
+    text-align: center;
+}
+.top{
+    font-size: 25px;
+    padding: 11px;
+}
